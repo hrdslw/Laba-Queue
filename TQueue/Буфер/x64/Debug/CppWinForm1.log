@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Git\mp2-lab4-queue\TQueue\Буфер\MyForm.h(378,38): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  CppWinForm1.vcxproj -> C:\Git\mp2-lab4-queue\TQueue\x64\Debug\CppWinForm1.exe
