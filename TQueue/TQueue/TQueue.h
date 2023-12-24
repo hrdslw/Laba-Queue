@@ -4,7 +4,7 @@
 #include <locale.h>
 
 using namespace std;
-
+//bbb
 template <class T>
 class TQueue
 {
